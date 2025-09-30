@@ -135,4 +135,5 @@ Desktop.ini
 *.f4b
 
 # Folders
-reports/*
+reports/*.csv
+reports/*.json
